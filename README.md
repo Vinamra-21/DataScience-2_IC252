@@ -1,1 +1,2 @@
-These are the solutions of IC-252 Probability and Statistics 
+# DataScience-2_IC252
+Solutions to IC-252 (DS-2) course lab asignments
